@@ -1,4 +1,2 @@
-Compiled RPM-packages are available at the build service http://koji.russianfedora.ru/koji/packageinfo?packageID=167
+RPM Specile for Minetest and Minetest Server.
 
-To enable RussianFedora-Free repository run
-su -c 'yum install --nogpgcheck http://mirror.yandex.ru/fedora/russianfedora/russianfedora/free/fedora/russianfedora-free-release-stable.noarch.rpm'
